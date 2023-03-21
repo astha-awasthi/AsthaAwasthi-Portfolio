@@ -81,9 +81,9 @@ img {
   margin-right: 1.5rem;
 }
 
-.column-2 {
+ .column-2 {
   margin-left: 1.5rem;
-}
+} 
 
 .image {
   position: relative;
@@ -802,6 +802,10 @@ header .circle {
   text-align: center;
   grid-column-gap: 1.5rem;
   grid-row-gap: 2rem;
+}
+.vl {
+  border-left: 3px solid lightgrey;
+  height: 500px;
 }
 
 .record-circle {
